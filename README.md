@@ -6,16 +6,20 @@ On clicking the news item you can read the full article.
 
 #### Features:
 * 10 different category of news
-* uses View model to store UI during configuration changes
-* custom chrome tabs for fast and easy inbuild web view
-* asysnc tasks to get the data on different thread.
+* uses ViewModel to store UI during configuration changes
+* custom chrome tabs for fast and easy inbuilt web view
+* async tasks to get the data on seperate thread.
 
 
 #### Improvements required:
-* using multiple fragments on single activity with model view to save data comming to recycler view has made the system `quite slow.`
-* imporvement can be done using activity for different category of news instead of fragments.
+* using multiple fragments on single activity with model view to save data coming to recycler view has made the system `quite slow.`
+* imporvement can be done using activity for different categories of news instead of fragments.
 * This is an experimental demo hence menu buttons and side navigations for different settings are not included.
 * This app is best designed only for 6 inches smart phones.
+
+
+#### minSdkVersion 24
+#### targetSdkVersion 29
 
 
 #### To download the app use given link
