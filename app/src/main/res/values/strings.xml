@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="tab_1">All</string>
+    <string name="tab_2">Entertainment</string>
+    <string name="tab_3">Sports</string>
+    <string name="tab_4">National</string>
+    <string name="tab_5">Crime</string>
+    <string name="tab_6">Health &amp; medicine</string>
+    <string name="tab_7">Local</string>
+    <string name="tab_8">Weather</string>
+    <string name="tab_9">International</string>
+    <string name="tab_10">Business</string>
+
+    <string-array name="tabs">
+        <item name = "tab0">All</item>
+        <item name = "tab1">Entertainment</item>
+        <item name = "tab2">Sports</item>
+        <item name = "tab3">National</item>
+        <item name = "tab4">Crime</item>
+        <item name = "tab5">Health &amp; medicine</item>
+        <item name = "tab6">Local</item>
+        <item name = "tab7">Weather</item>
+        <item name = "tab8">International</item>
+        <item name = "tab9">>Business</item>
+    </string-array>
+
+
+
+
+</resources>
